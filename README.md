@@ -18,10 +18,6 @@
     <img align="center" alt="Edu-HTML" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
     <img align="center" alt="Edu-CSS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
     <img align="center" alt="Edu-CSS" height="48" width="48" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" />
-          
-          
-          
-          
         </div>
   
 ##   
